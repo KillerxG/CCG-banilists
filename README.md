@@ -1,0 +1,2 @@
+# CCG-banilists
+CCG Banlists
